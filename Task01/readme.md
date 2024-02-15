@@ -25,7 +25,7 @@ https://github.com/DevOps-With-Babar-Zahoor/Linux/tree/main/Task%2001
 
 ## List of Issues you faced while doing the tasks
 
-- Not faced any issue
+> Not faced any issue
 
 ### Submission
 Youtbe video:
